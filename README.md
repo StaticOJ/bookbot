@@ -1,2 +1,3 @@
-# My BookBot Project
-This is the repository for my BookBot project.
+# bookbot
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
